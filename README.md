@@ -1,4 +1,4 @@
-# life-without-google
+# Don't forget Google List
 This is a complete checklist to start a great life without google
 
 ## Summary
