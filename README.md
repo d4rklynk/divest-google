@@ -35,6 +35,7 @@ __Feel free to ask for changes__
     - Nextcloud Calendar ___(FOSS)___
     - Protonmail Calendar
     - Outlook Calendar
+    - Tutanota Calendar ___(FOSS)___
 - ### Chrome<a name="chrome"></a>
   - #### Don't forget :
     - Passwords
@@ -105,6 +106,7 @@ __Feel free to ask for changes__
     - #### Alternatives :
       - DAVx5 ___(FOSS)___
       - Nextcloud Contacts ___(FOSS)___
+      - Tutanota Contaccts ___(FOSS)___
 - ### Authenticator<a name="2fa"></a>
     - #### Don't forget :
       - Your 2FA codes
