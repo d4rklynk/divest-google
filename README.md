@@ -32,7 +32,7 @@ __Feel free to ask for changes__
   - #### How to export : 
     - Events -> https://support.google.com/calendar/answer/37111?hl=en
   - #### Alternatives : 
-    - Nextcloud Calendar
+    - Nextcloud Calendar ___(FOSS)___
     - Protonmail Calendar
     - Outlook Calendar
 - ### Chrome<a name="chrome"></a>
@@ -48,8 +48,8 @@ __Feel free to ask for changes__
         - Firefox
         - Chromium
       - For password manager :
-        - Bitwarden
-        - Keepass
+        - Bitwarden ___(FOSS)___
+        - Keepass ___(FOSS)___
 - ### Drive<a name="drive"></a>
     - #### Don't forget :
       - Your files (Documents/Musics/Pictures/Videos)
@@ -57,7 +57,7 @@ __Feel free to ask for changes__
       - Your files -> https://www.howtogeek.com/696484/how-to-export-your-google-drive-files/
     - #### Alternatives :
       - OneDrive
-      - Nextcloud
+      - Nextcloud ___(FOSS)___
       - ProtonDrive (by Protonamil)
 - ### Gmail<a name="gmail"></a>
     - #### Don't forget :
@@ -66,7 +66,7 @@ __Feel free to ask for changes__
       - https://support.google.com/mail/answer/10016932?hl=en
     - #### Alternatives :
       - Outlook
-      - Tutanota
+      - Tutanota ___(FOSS)___
       - Protonmail
       - Mailbox.org
 - ### Youtube<a name="youtube"></a>
@@ -80,12 +80,12 @@ __Feel free to ask for changes__
       - Your playlists -> N/A for now
     - #### Alternatives :
       - Front-end Alternative
-        - Piped
-        - Invidious
-        - NewPiped ___(Android)___
+        - Piped ___(FOSS)___
+        - Invidious ___(FOSS)___
+        - NewPiped ___(Android)(FOSS)___
         - Youtube Vanced ___(Android)___
       - Alternatives
-        - Peertube
+        - Peertube ___(FOSS)___
         - Vimeo
 ## Android<a name="android"></a>
 - ### Android OS<a name="android-os"></a>
@@ -95,16 +95,16 @@ __Feel free to ask for changes__
     - #### How to export :
       - N/A
     - #### Alternatives :
-      - Aurora Store
-      - F-Droid (but only for FOSS apps)
+      - Aurora Store ___(FOSS)___
+      - F-Droid (but only for FOSS apps) ___(FOSS)___
 - ### Contacts<a name="contacts"></a>
     - #### Don't forget :
       - Your contacts
     - #### How to export :
       - Contacts -> https://support.google.com/contacts/answer/7199294?hl=en&co=GENIE.Platform=Desktop
     - #### Alternatives :
-      - DAVx5
-      - Nextcloud Contacts
+      - DAVx5 ___(FOSS)___
+      - Nextcloud Contacts ___(FOSS)___
 - ### Authenticator<a name="2fa"></a>
     - #### Don't forget :
       - Your 2FA codes
@@ -112,5 +112,5 @@ __Feel free to ask for changes__
       - 2FA -> https://github.com/scito/extract_otp_secret_keys
     - #### Alternatives :
       - Authy
-      - Aegis
-      - AndOTP
+      - Aegis ___(FOSS)___
+      - AndOTP ___(FOSS)___
