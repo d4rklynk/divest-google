@@ -36,6 +36,7 @@ __Feel free to ask for changes__
     - Protonmail Calendar
     - Outlook Calendar
     - Tutanota Calendar ___(FOSS)___
+    - DAVx5 (for Contacts/Calendar synchronization)
 - ### Chrome<a name="chrome"></a>
   - #### Don't forget :
     - Passwords
@@ -101,10 +102,11 @@ __Feel free to ask for changes__
 - ### Contacts<a name="contacts"></a>
     - #### Don't forget :
       - Your contacts
+      - The auto synchronization of your contacts
     - #### How to export :
       - Contacts -> https://support.google.com/contacts/answer/7199294?hl=en&co=GENIE.Platform=Desktop
     - #### Alternatives :
-      - DAVx5 ___(FOSS)___
+      - DAVx5 (for Contacts/Calendar synchronization) ___(FOSS)___
       - Nextcloud Contacts ___(FOSS)___
       - Tutanota Contaccts ___(FOSS)___
 - ### Authenticator<a name="2fa"></a>
