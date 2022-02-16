@@ -11,7 +11,7 @@ This is a complete checklist to start a great life without google
     - [Gmail](#gmail)
     - [Youtube](#youtube)
   - [Android](#android)
-    - [Android OS](#android-os)
+    - [Play Store](#play-store)
     - [Contacts](#contacts)
     - [Authenticator](#2fa)
 ## What is it ?<a name="what"></a>
@@ -90,7 +90,7 @@ __Feel free to ask for changes__
         - Peertube ___(FOSS)___
         - Vimeo
 ## Android<a name="android"></a>
-- ### Android OS<a name="android-os"></a>
+- ### Play Store<a name="play-store"></a>
     - #### Don't forget :
       - Your paid apps
       - Your score/stats on some games
