@@ -99,6 +99,7 @@ __Feel free to ask for changes__
     - #### Alternatives :
       - Aurora Store ___(FOSS)___
       - F-Droid (but only for FOSS apps) ___(FOSS)___
+    - ___Notes : You can still access your paid apps with Aurora Store with your own google account, but this is not recommanded. As far as I know, if you remove your google account, you won't have your paid apps anymore___
 - ### Contacts<a name="contacts"></a>
     - #### Don't forget :
       - Your contacts
