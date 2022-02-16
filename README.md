@@ -90,8 +90,8 @@ __Feel free to ask for changes__
       - Alternatives
         - Peertube ___(FOSS)___
         - Vimeo
-     - ### Third Party Access<a name="thirdparty"></a>
-        - Really, don't forget this one, these are the apps you signed in with your google account, like spotify for example.
+    - ### Third Party Access<a name="thirdparty"></a>
+       - Really, don't forget this one, these are the apps you signed in with your google account, like spotify for example.
         -> https://support.google.com/accounts/answer/3466521?hl=en
 ## Android<a name="android"></a>
 - ### Play Store<a name="play-store"></a>
