@@ -10,6 +10,7 @@ This is a complete checklist to start a great life without google
     - [Drive](#drive)
     - [Gmail](#gmail)
     - [Youtube](#youtube)
+    - [Third Party Apps](#thirdparty)
   - [Android](#android)
     - [Play Store](#play-store)
     - [Contacts](#contacts)
@@ -89,6 +90,9 @@ __Feel free to ask for changes__
       - Alternatives
         - Peertube ___(FOSS)___
         - Vimeo
+     - ### Third Party Access<a name="thirdparty"></a>
+        - Really, don't forget this one, these are the apps you signed in with your google account, like spotify for example.
+        -> https://support.google.com/accounts/answer/3466521?hl=en
 ## Android<a name="android"></a>
 - ### Play Store<a name="play-store"></a>
     - #### Don't forget :
@@ -97,8 +101,10 @@ __Feel free to ask for changes__
     - #### How to export :
       - N/A
     - #### Alternatives :
-      - Aurora Store ___(FOSS)___
-      - F-Droid (but only for FOSS apps) ___(FOSS)___
+      - Front-end Alternatives
+          - Aurora Store ___(FOSS)___
+      - Alternatives
+          - F-Droid (but only for FOSS apps) ___(FOSS)___
     - ___Notes : You can still access your paid apps with Aurora Store with your own google account, but this is not recommanded. As far as I know, if you remove your google account, you won't have your paid apps anymore___
 - ### Contacts<a name="contacts"></a>
     - #### Don't forget :
