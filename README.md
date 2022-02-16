@@ -14,10 +14,10 @@ This is a complete checklist to start a great life without google
   - [Android](#android)
     - [Play Store](#play-store)
     - [Contacts](#contacts)
-    - [Authenticator](#2fa)
+    - [Google Authenticator](#2fa)
 ## What is it ?<a name="what"></a>
 This guide is meant to be used for those who wants to remove their google account. Did you ever wonder : What am I losing if I remove my Google account ? Well this page is for you.
-For example: Don't forget your password on chrome or don't forget your contact synchronisation with Google Contacts
+For example: Don't forget your passwords on chrome or don't forget your contact synchronisation with Google Contacts
 
 __Feel free to ask for changes__
 ## Glossary<a name="glossary"></a>
@@ -115,8 +115,8 @@ __Feel free to ask for changes__
     - #### Alternatives :
       - DAVx5 (for Contacts/Calendar synchronization) ___(FOSS)___
       - Nextcloud Contacts ___(FOSS)___
-      - Tutanota Contaccts ___(FOSS)___
-- ### Authenticator<a name="2fa"></a>
+      - Tutanota Contacts ___(FOSS)___
+- ### Google Authenticator<a name="2fa"></a>
     - #### Don't forget :
       - Your 2FA codes
     - #### How to export :
