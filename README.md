@@ -44,9 +44,9 @@ __Feel free to ask for changes__
     - Bookmarks -> https://www.howtogeek.com/744989/how-to-export-chrome-bookmarks/
   - #### Alternatives:
       - For web browsing :
-        - Brave
-        - Firefox
-        - Chromium
+        - Brave ___(FOSS)___
+        - Firefox ___(FOSS)___
+        - Chromium ___(FOSS)___
       - For password manager :
         - Bitwarden ___(FOSS)___
         - Keepass ___(FOSS)___
