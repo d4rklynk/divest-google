@@ -22,7 +22,7 @@ __Feel free to ask for changes__
 ## Glossary<a name="glossary"></a>
   - Front-end alternative : the client you use is different from the official one, but it still takes the data from the official servers of the applciation (example : NewPiped on Android is used to see videos from Youtube, but it isn't an offical application of Google/Youtube)
   - Free (as in speech) : means there is a philosophy behind the software, you can use the software as you like, run as you like, you can improve the program, and you can redistribute the software if you want to.
-  - Free (as in beer) : means just that there's not cost
+  - Free (as in beer) : means just that there's no cost
   - Open-Source : means that the code is open, everyone can read it.
   - FOSS : is the abbreviation of Free, Open-Source Software
 ## Google Services<a name="services"></a>
