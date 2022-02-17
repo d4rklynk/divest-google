@@ -121,7 +121,7 @@ __Feel free to ask for changes__
       - Nextcloud Contacts ___(FOSS)___
       - Tutanota Contacts ___(FOSS)___
 - ### Google Authenticator<a name="2fa"></a>
-      I never used this one, I don't know if you really need a Google account
+    - ___Notes : I never used this one, I don't know if you really need a Google account___
     - #### Don't forget :
       - Your 2FA codes
     - #### How to export :
