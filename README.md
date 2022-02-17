@@ -120,6 +120,7 @@ __Feel free to ask for changes__
       - DAVx5 (for Contacts/Calendar synchronization) ___(FOSS)___
       - Nextcloud Contacts ___(FOSS)___
       - Tutanota Contacts ___(FOSS)___
+      - Simple Contacts from SimpleMobileTools -> https://www.simplemobiletools.com/
 - ### Google Authenticator<a name="2fa"></a>
     - ___Notes : I never used this one, I don't know if you really need a Google account___
     - #### Don't forget :
