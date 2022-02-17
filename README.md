@@ -1,6 +1,9 @@
 # Don't forget Google List
 This is a complete checklist to start a great life without Google
 
+## Keys
+:warning: The app doesn't work after you deleted your account
+
 ## Summary
   - [What is it ?](#what)
   - [Glossary](#glossary)
@@ -16,8 +19,9 @@ This is a complete checklist to start a great life without Google
     - [Contacts](#contacts)
     - [Google Authenticator](#2fa)
 ## What is it ?<a name="what"></a>
-This guide is meant to be used for those who wants to remove their google account. Did you ever wonder : What am I losing if I remove my Google account ? Well, this page is for you.
+This guide is meant to be used for those who want to remove their google account. Did you ever wonder : What am I losing if I remove my Google account ? Well, this page is for you.
 For example: Don't forget your passwords on chrome or don't forget your contact synchronisation with Google Contacts
+It worth notice that this guide is only here tohelp you deleting your google account, you can still use Google Maps, Google Contact (but without synchronization) and Google Messages for instance.
 
 __Feel free to ask for changes__
 ## Glossary<a name="glossary"></a>
@@ -27,7 +31,7 @@ __Feel free to ask for changes__
   - Open-Source : means that the code is open, everyone can read it.
   - FOSS : is the abbreviation of Free, Open-Source Software
 ## Google Services<a name="services"></a>
-- ### Calendar<a name="calendar"></a>
+- ### Calendar<a name="calendar"></a>:warning:
   - #### Don't forget : 
     - Your events :wink:
   - #### How to export : 
@@ -53,7 +57,7 @@ __Feel free to ask for changes__
       - For password manager :
         - Bitwarden ___(FOSS)___
         - Keepass ___(FOSS)___
-- ### Drive<a name="drive"></a>
+- ### Drive<a name="drive"></a>:warning:
     - #### Don't forget :
       - Your files (Documents/Musics/Pictures/Videos)
     - #### How to export :
@@ -62,7 +66,7 @@ __Feel free to ask for changes__
       - OneDrive
       - Nextcloud ___(FOSS)___
       - ProtonDrive (by Protonamil)
-- ### Gmail<a name="gmail"></a>
+- ### Gmail<a name="gmail"></a>:warning:
     - #### Don't forget :
       - Your important mail
     - #### How to export :
@@ -94,7 +98,7 @@ __Feel free to ask for changes__
        - Really, don't forget this one, these are the apps you signed in with your google account, like spotify for example.
         -> https://support.google.com/accounts/answer/3466521?hl=en
 ## Android<a name="android"></a>
-- ### Play Store<a name="play-store"></a>
+- ### Play Store<a name="play-store"></a>:warning:
     - #### Don't forget :
       - Your paid apps
       - Your score/stats on some games
@@ -117,6 +121,7 @@ __Feel free to ask for changes__
       - Nextcloud Contacts ___(FOSS)___
       - Tutanota Contacts ___(FOSS)___
 - ### Google Authenticator<a name="2fa"></a>
+      I never used this one, I don't know if you really need a Google account
     - #### Don't forget :
       - Your 2FA codes
     - #### How to export :
