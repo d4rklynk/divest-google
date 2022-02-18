@@ -85,7 +85,7 @@ __Feel free to ask for changes__
       - https://takeout.google.com
     - #### Alternatives :
       - Nextcloud
-      - Simple Gallery from SimpleMobileTools  ___(FOSS)___ -> https://www.simplemobiletools.com/
+      - Simple Gallery from SimpleMobileTools ___(android)(FOSS)___ -> https://www.simplemobiletools.com/
       - PhotoPrism
       - Piwigo
       - Lychee
