@@ -12,6 +12,7 @@ This is a complete checklist to start a great life without Google
     - [Chrome](#chrome)
     - [Drive](#drive)
     - [Gmail](#gmail)
+    - [Google Photos](#photos)
     - [Youtube](#youtube)
     - [Third Party Apps](#thirdparty)
   - [Android](#android)
@@ -76,6 +77,18 @@ __Feel free to ask for changes__
       - Tutanota ___(FOSS)___
       - Protonmail
       - Mailbox.org
+- ### Google Photos<a name="photos"></a>:warning:
+    - #### Don't forget :
+      - Your photos
+      - Your shared photos
+    - #### How to export :
+      - https://takeout.google.com
+    - #### Alternatives :
+      - Nextcloud
+      - Simple Gallery from SimpleMobileTools  ___(FOSS)___ -> https://www.simplemobiletools.com/
+      - PhotoPrism
+      - Piwigo
+      - Lychee
 - ### Youtube<a name="youtube"></a>
     - #### Don't forget :
       - The videos you posted
