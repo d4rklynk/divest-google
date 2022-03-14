@@ -131,7 +131,7 @@ __Feel free to ask for changes__
       - Contacts -> https://support.google.com/contacts/answer/7199294?hl=en&co=GENIE.Platform=Desktop
     - #### Alternatives :
       - DAVx5 (for Contacts/Calendar synchronization) ___(FOSS)___
-      - Nextcloud Contacts ___(FOSS)___
+      - Nextcloud Contacts (can be used for Contacts/Calendar synchronization) ___(FOSS)___
       - Tutanota Contacts ___(FOSS)___
       - Simple Contacts from SimpleMobileTools  ___(FOSS)___ -> https://www.simplemobiletools.com/
 - ### Google Authenticator<a name="2fa"></a>
