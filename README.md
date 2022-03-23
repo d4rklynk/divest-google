@@ -66,7 +66,7 @@ __Feel free to ask for changes__
     - #### Alternatives :
       - OneDrive
       - Nextcloud ___(FOSS)___
-      - ProtonDrive (by Protonamil)
+      - ProtonDrive (by Protonmail)
 - ### Gmail<a name="gmail"></a>:warning:
     - #### Don't forget :
       - Your important mail
@@ -102,8 +102,9 @@ __Feel free to ask for changes__
       - Front-end Alternative
         - Piped ___(FOSS)___
         - Invidious ___(FOSS)___
-        - NewPiped ___(Android)(FOSS)___
-        - Youtube Vanced ___(Android)___
+        - NewPipe ___(Android)(FOSS)___
+        - LibreTube ___(Android)(FOSS)(Still in BETA)___
+        - Youtube Vanced ___(Android)(DISCONTINUED)___
       - Alternatives
         - Peertube ___(FOSS)___
         - Vimeo
@@ -122,6 +123,7 @@ __Feel free to ask for changes__
           - Aurora Store ___(FOSS)___
       - Alternatives
           - F-Droid (but only for FOSS apps) ___(FOSS)___
+          - Droidify (alternative front-end for F-Droid, Android 12 Design) ___(FOSS)___
     - ___Notes : You can still access your paid apps with Aurora Store with your own google account, but this is not recommended. AFAIK, if you remove your google account, you will lose everything, included those paid apps___
 - ### Contacts<a name="contacts"></a>
     - #### Don't forget :
