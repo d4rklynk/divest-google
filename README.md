@@ -101,6 +101,7 @@ __Feel free to ask for changes__
       - Your playlists -> N/A for now
     - #### Alternatives :
       - Front-end Alternative
+        - Freetube
         - Piped ___(FOSS)___
         - Invidious ___(FOSS)___
         - NewPipe ___(Android)(FOSS)___
