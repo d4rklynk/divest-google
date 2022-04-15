@@ -43,6 +43,7 @@ __Feel free to ask for changes__
     - Outlook Calendar
     - Tutanota Calendar ___(FOSS)___
     - DAVx5 (for Contacts/Calendar synchronization)
+    - EteSync (for contact/notes/calendar/tasks synchronization) -> https://www.etesync.com/ ___(cloud or self-hostable)(FOSS)___
 - ### Chrome<a name="chrome"></a>
   - #### Don't forget :
     - Passwords
@@ -133,6 +134,7 @@ __Feel free to ask for changes__
       - Contacts -> https://support.google.com/contacts/answer/7199294?hl=en&co=GENIE.Platform=Desktop
     - #### Alternatives :
       - DAVx5 (for Contacts/Calendar synchronization) ___(FOSS)___
+      - EteSync (for contact/notes/calendar/tasks synchronization) -> https://www.etesync.com/ ___(cloud or self-hostable)(FOSS)___
       - Nextcloud Contacts (can be used for Contacts/Calendar synchronization) ___(FOSS)___
       - Tutanota Contacts ___(FOSS)___
       - Simple Contacts from SimpleMobileTools  ___(FOSS)___ -> https://www.simplemobiletools.com/
