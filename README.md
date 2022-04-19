@@ -1,5 +1,5 @@
 # Divest Google
-This is a complete checklist to start a great life without Google
+This is a complete checklist to start living a great life without Google
 
 ## Key
 - :warning: The app cannot be used after you deleted your account
@@ -21,7 +21,7 @@ This is a complete checklist to start a great life without Google
     - [Contacts](#contacts)
     - [Google Authenticator](#2fa)
 ## What is this list ?<a name="what"></a>
-Have you ever wanted to delete your Google account ? Did you gave up instantly after realizing how many Google services you use on a day-to-day basis ? Well, this page is for you.
+Have you ever wanted to delete your Google account ? Did you give up instantly after realizing how many Google services you use on a day-to-day basis ? Well, this page is for you.
 From passwords in Google Chrome to Contacts sync, this list will guide you through moving Google from your life without losing your most important data.
 
 ## Notes<a name="notes"></a>
