@@ -61,7 +61,7 @@ __Feel free to ask for changes__
         - Chromium ___(FOSS)___
       - For password manager :
         - Bitwarden ___(FOSS)___
-        - Keepass ___(FOSS)___
+        - KeepassXC ___(FOSS)___
 - ### Drive<a name="drive"></a>:warning:
     - #### You will lose :
       - Your files (Documents/Musics/Pictures/Videos)
