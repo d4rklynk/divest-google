@@ -21,19 +21,20 @@ This is a complete checklist to start living a great life without Google
     - [Contacts](#contacts)
     - [Google Authenticator](#2fa)
 ## What is this list ?<a name="what"></a>
-Have you ever wanted to delete your Google account ? Did you give up instantly after realizing how many Google services you use on a day-to-day basis ? Well, this page is for you.
-From passwords in Google Chrome to Contacts sync, this list will guide you through moving Google from your life without losing your most important data.
+Have you ever wanted to delete your Google account ? Did you give up instantly after realizing how many Google services you use on a day-to-day basis ? Well, this list is for you.
+From passwords in Google Chrome to Google Contacts sync, this list will help you remove Google from your life without losing your most important data.
 
 ## Notes<a name="notes"></a>
 For a complete list of privacy-friendly tools, please check out https://www.privacyguides.org.
 
 __Feel free to ask for changes__
 ## Glossary<a name="glossary"></a>
-  - Front-end alternative : the client you use is different from the official one, but it still takes the data from the official servers of the application (example : NewPipe on Android is used to see videos from Youtube, but it isn't an offical application of Google/Youtube)
-  - Free (as in speech) : means there is a philosophy behind the software, you can use the software as you like, run as you like, you can improve the program, and you can redistribute the software if you want to.
-  - Free (as in beer) : means just that there's no cost
-  - Open-Source : means that the code is open, everyone can read it.
-  - FOSS : is the abbreviation of Free, Open-Source Software
+  - Front-end alternative : a website or application that proxies the original service to provide more privacy.
+  - (example : NewPipe on Android is used to watch videos from Youtube, but it isn't an offical application of Google/Youtube)
+  - Free (as in speech) : refers to a philosophy behind the software - you can use the software as you like, run it as you like, you can improve the program, and you can redistribute the software if you want to -
+  - Free (as in beer) : there's no cost
+  - Open-Source : the code is open, everyone can read it.
+  - FOSS : acronym for Free, Open-Source Software
 ## Google Services<a name="services"></a>
 - ### Calendar<a name="calendar"></a>:warning:
   - #### Don't forget : 
