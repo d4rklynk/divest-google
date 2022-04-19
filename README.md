@@ -31,7 +31,7 @@ __Feel free to ask for changes__
 ## Glossary<a name="glossary"></a>
   - Front-end alternative : a website or application that proxies the original service to provide more privacy.
   - (example : NewPipe on Android is used to watch videos from Youtube, but it isn't an offical application of Google/Youtube)
-  - Free (as in speech) : refers to a philosophy behind the software - you can use the software as you like, run it as you like, improve the program and redistribute the software if you want to -
+  - Free (as in speech) : refers to a philosophy - you can use the software as you like, run it as you like, improve the program and redistribute the software if you want to -
   - Free (as in beer) : there's no cost
   - Open-Source : the code is open, everyone can read it.
   - FOSS : acronym for Free, Open-Source Software
