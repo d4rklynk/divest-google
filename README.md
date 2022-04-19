@@ -36,7 +36,7 @@ __Feel free to ask for changes__
   - FOSS : acronym for Free, Open-Source Software
 ## Google Services<a name="services"></a>
 - ### Calendar<a name="calendar"></a>:warning:
-  - #### Don't forget : 
+  - #### You will lose : 
     - Your events :wink:
   - #### How to export : 
     - Events -> https://support.google.com/calendar/answer/37111?hl=en
@@ -48,7 +48,7 @@ __Feel free to ask for changes__
     - DAVx5 (for Contacts/Calendar synchronization)
     - EteSync (for contact/notes/calendar/tasks synchronization) -> https://www.etesync.com/ ___(cloud or self-hostable)(FOSS)___
 - ### Chrome<a name="chrome"></a>
-  - #### Don't forget :
+  - #### You will lose :
     - Passwords
     - Bookmarks
   - #### How to export : 
@@ -63,7 +63,7 @@ __Feel free to ask for changes__
         - Bitwarden ___(FOSS)___
         - Keepass ___(FOSS)___
 - ### Drive<a name="drive"></a>:warning:
-    - #### Don't forget :
+    - #### You will lose :
       - Your files (Documents/Musics/Pictures/Videos)
     - #### How to export :
       - Your files -> https://www.howtogeek.com/696484/how-to-export-your-google-drive-files/
@@ -72,7 +72,7 @@ __Feel free to ask for changes__
       - Nextcloud ___(FOSS)___
       - ProtonDrive (by Protonmail)
 - ### Gmail<a name="gmail"></a>:warning:
-    - #### Don't forget :
+    - #### You will lose :
       - Your important mail
     - #### How to export :
       - https://support.google.com/mail/answer/10016932?hl=en
@@ -82,7 +82,7 @@ __Feel free to ask for changes__
       - Protonmail
       - Mailbox.org
 - ### Google Photos<a name="photos"></a>:warning:
-    - #### Don't forget :
+    - #### You will lose :
       - Your photos
       - Your shared photos
     - #### How to export :
@@ -94,7 +94,7 @@ __Feel free to ask for changes__
       - Piwigo
       - Lychee
 - ### Youtube<a name="youtube"></a>
-    - #### Don't forget :
+    - #### You will lose :
       - The videos you posted
       - Your subscriptions
       - Your playlists
@@ -118,7 +118,7 @@ __Feel free to ask for changes__
         -> https://support.google.com/accounts/answer/3466521?hl=en
 ## Android<a name="android"></a>
 - ### Play Store<a name="play-store"></a>:warning:
-    - #### Don't forget :
+    - #### You will lose :
       - Your paid apps
       - Your score/stats on some games
     - #### How to export :
@@ -131,7 +131,7 @@ __Feel free to ask for changes__
           - Droidify (alternative front-end for F-Droid, Android 12 Design) ___(FOSS)___
     - ___Notes : You can still access your paid apps with Aurora Store with your own google account, but this is not recommended. AFAIK, if you remove your google account, you will lose everything, included those paid apps___
 - ### Contacts<a name="contacts"></a>
-    - #### Don't forget :
+    - #### You will lose :
       - Your contacts
       - The auto synchronization of your contacts
     - #### How to export :
@@ -144,7 +144,7 @@ __Feel free to ask for changes__
       - Simple Contacts from SimpleMobileTools  ___(FOSS)___ -> https://www.simplemobiletools.com/
 - ### Google Authenticator<a name="2fa"></a>
     - ___Notes : I never used this one, I don't know if you really need a Google account___
-    - #### Don't forget :
+    - #### You will lose :
       - Your 2FA codes
     - #### How to export :
       - 2FA -> https://github.com/scito/extract_otp_secret_keys
