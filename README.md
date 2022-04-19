@@ -5,7 +5,7 @@ This is a complete checklist to start a great life without Google
 - :warning: The app cannot be used after you deleted your account
 
 ## Summary
-  - [What is it ?](#what)
+  - [What is this list ?](#what)
   - [Notes](#notes)
   - [Glossary](#glossary)
   - [Google Services](#services)
