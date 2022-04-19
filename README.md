@@ -2,7 +2,7 @@
 This is a complete checklist to start living a great life without Google
 
 ## Symbols
-- :warning: The app cannot be used after you deleted your account
+- :warning: You can't use this app after deleting your account
 
 ## Summary
   - [What is this list ?](#what)
