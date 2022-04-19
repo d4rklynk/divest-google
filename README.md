@@ -25,7 +25,7 @@ Have you ever wanted to delete your Google account ? Did you give up instantly a
 From passwords in Google Chrome to Google Contacts sync, this list will help you remove Google from your life without losing your most important data.
 
 ## Notes<a name="notes"></a>
-For a complete list of privacy-friendly tools, please check out <a url="https://www.privacyguides.org" target="_blank">https://www.privacyguides.org</a>.
+For a complete list of privacy-friendly tools, please check out https://www.privacyguides.org.
 
 __Feel free to ask for changes__
 ## Glossary<a name="glossary"></a>
