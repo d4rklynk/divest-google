@@ -129,7 +129,7 @@ __Feel free to ask for changes__
       - Alternatives
           - F-Droid (but only for FOSS apps) ___(FOSS)___
           - Droidify (alternative front-end for F-Droid, Android 12 Design) ___(FOSS)___
-    - ___Notes : You can still access your paid apps with Aurora Store with your own google account, but this is not recommended. AFAIK, if you remove your google account, you will lose everything, included those paid apps___
+    - ___Notes : You can still access your paid apps with Aurora Store with your own google account, but this is not recommended. If you remove your google account, you will lose everything, included those paid apps___
 - ### Contacts<a name="contacts"></a>
     - #### You will lose :
       - Your contacts
