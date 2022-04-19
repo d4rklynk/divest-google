@@ -37,7 +37,7 @@ __Feel free to ask for changes__
 ## Google Services<a name="services"></a>
 - ### Calendar<a name="calendar"></a>:warning:
   - #### You will lose : 
-    - Your events :wink:
+    - Your events
   - #### How to export : 
     - Events -> https://support.google.com/calendar/answer/37111?hl=en
   - #### Alternatives : 
