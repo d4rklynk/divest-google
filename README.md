@@ -20,7 +20,7 @@ This is a complete checklist to start a great life without Google
     - [Play Store](#play-store)
     - [Contacts](#contacts)
     - [Google Authenticator](#2fa)
-## What is it ?<a name="what"></a>
+## What is this list ?<a name="what"></a>
 This guide is meant to be used for those who want to remove their google account. Did you ever wonder : What am I losing if I remove my Google account ? Well, this page is for you.
 For example: Don't forget your passwords on chrome or don't forget your contact synchronisation with Google Contacts.
 It worth notice that this guide is only here to help you deleting your google account, you can still use Google Maps, Google Contact (but without synchronization) and Google Messages for instance.
