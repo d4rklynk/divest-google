@@ -1,4 +1,4 @@
-# Don't forget Google List
+# Divest Google
 This is a complete checklist to start a great life without Google
 
 ## Key
