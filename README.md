@@ -1,7 +1,7 @@
 # Divest Google
 This is a complete checklist to start living a great life without Google
 
-## Key
+## Symbols
 - :warning: The app cannot be used after you deleted your account
 
 ## Summary
