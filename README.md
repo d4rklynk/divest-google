@@ -148,6 +148,7 @@ __Feel free to ask for changes__
       - Your 2FA codes
     - #### How to export :
       - 2FA -> https://github.com/scito/extract_otp_secret_keys
+      - (or if you have a second device) 2FA -> https://support.google.com/accounts/answer/1066447#zippy=%2Ctransfer-google-authenticator-codes-to-new-phone
     - #### Alternatives :
       - Authy
       - Aegis ___(FOSS)___
