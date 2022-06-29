@@ -24,7 +24,7 @@ This is a complete checklist to start living a great life without Google
 Have you ever wanted to delete your Google account ? Did you give up instantly after realizing how many Google services you use on a day-to-day basis ? Well, this list is for you.
 From passwords in Google Chrome to Google Contacts sync, this list will help you remove Google from your life without losing your most important data.
 
-**You should do a service one at a time, to get slowly get used to other services.**
+**You should do a service one at a time, to slowly get used to other services.**
 
 _(I personnaly liked Youtube and its UI, and I switched to NewPipe and Piped. After a week I just didn't remember I liked the UI.)_
 
