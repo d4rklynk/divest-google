@@ -62,7 +62,6 @@ __Feel free to ask for changes__
       - For web browsing :
         - Brave ___(FOSS)___
         - Firefox ___(FOSS)___
-        - Chromium ___(FOSS)___
       - For password manager :
         - Bitwarden ___(FOSS)___
         - KeepassXC ___(FOSS)___
@@ -72,19 +71,18 @@ __Feel free to ask for changes__
     - #### How to export :
       - Your files -> https://www.howtogeek.com/696484/how-to-export-your-google-drive-files/
     - #### Alternatives :
+      - ProtonDrive (by Protonmail)
       - OneDrive
       - Nextcloud ___(FOSS)___
-      - ProtonDrive (by Protonmail)
 - ### Gmail<a name="gmail"></a>:warning:
     - #### You will lose :
       - Your important mail
     - #### How to export :
       - https://support.google.com/mail/answer/10016932?hl=en
     - #### Alternatives :
-      - Outlook
-      - Tutanota ___(FOSS)___
       - Protonmail
-      - Mailbox.org
+      - Tutanota ___(FOSS)___
+      - Outlook
 - ### Google Photos<a name="photos"></a>:warning:
     - #### You will lose :
       - Your photos
@@ -132,7 +130,7 @@ __Feel free to ask for changes__
           - Aurora Store ___(FOSS)___
       - Alternatives
           - F-Droid (but only for FOSS apps) ___(FOSS)___
-          - Droidify (alternative front-end for F-Droid, Android 12 Design) ___(FOSS)___
+          - NeoStore (front-end alternative for F-Droid, Android 12 Design) ___(FOSS)___
     - ___Notes : You can still access your paid apps with Aurora Store with your own google account, but this is not recommended. If you remove your google account, you will lose everything, included those paid apps___
 - ### Contacts<a name="contacts"></a>
     - #### You will lose :
@@ -141,8 +139,8 @@ __Feel free to ask for changes__
     - #### How to export :
       - Contacts -> https://support.google.com/contacts/answer/7199294?hl=en&co=GENIE.Platform=Desktop
     - #### Alternatives :
-      - DAVx5 (for Contacts/Calendar synchronization) ___(FOSS)___
       - EteSync (for contact/notes/calendar/tasks synchronization) -> https://www.etesync.com/ ___(cloud or self-hostable)(FOSS)___
+      - DAVx5 (for Contacts/Calendar synchronization) ___(FOSS)___
       - Nextcloud Contacts (can be used for Contacts/Calendar synchronization) ___(FOSS)___
       - Tutanota Contacts ___(FOSS)___
       - Simple Contacts from SimpleMobileTools  ___(FOSS)___ -> https://www.simplemobiletools.com/
@@ -154,6 +152,6 @@ __Feel free to ask for changes__
       - 2FA -> https://github.com/scito/extract_otp_secret_keys
       - (or if you have a second device) 2FA -> https://support.google.com/accounts/answer/1066447#zippy=%2Ctransfer-google-authenticator-codes-to-new-phone
     - #### Alternatives :
-      - Authy
+      - Yubikey 5 NFC (with Yubico Authenticator)
       - Aegis ___(FOSS)___
       - AndOTP ___(FOSS)___
